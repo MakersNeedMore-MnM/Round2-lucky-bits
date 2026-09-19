@@ -1,0 +1,28 @@
+{
+  "name": "network-compliance-auditor",
+  "version": "1.0.0",
+  "description": "AI-Driven Multi-Vendor Network Security Compliance Auditor - Smart India Hackathon 2026 Prototype",
+  "scripts": {
+    "dev": "concurrently \"npm run start:backend\" \"npm run start:frontend\"",
+    "start": "concurrently \"npm run start:backend\" \"npm run start:frontend\"",
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm run dev",
+    "seed": "cd backend && node data/initialSeed.js",
+    "build": "cd frontend && npm run build"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  },
+  "keywords": [
+    "cybersecurity",
+    "compliance",
+    "multi-vendor",
+    "cisco",
+    "fortinet",
+    "palo-alto",
+    "juniper",
+    "sih2026"
+  ],
+  "author": "Smart India Hackathon 2026 Team",
+  "license": "MIT"
+}

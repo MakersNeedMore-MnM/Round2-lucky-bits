@@ -1,0 +1,36 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Start Full Stack (Backend + Frontend)",
+      "type": "npm",
+      "script": "dev",
+      "isBackground": true,
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Start Backend Server Only",
+      "type": "npm",
+      "script": "start:backend",
+      "isBackground": true,
+      "problemMatcher": []
+    },
+    {
+      "label": "Start Frontend Client Only",
+      "type": "npm",
+      "script": "start:frontend",
+      "isBackground": true,
+      "problemMatcher": []
+    },
+    {
+      "label": "Reset / Reseed Database",
+      "type": "npm",
+      "script": "seed",
+      "problemMatcher": []
+    }
+  ]
+}
