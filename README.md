@@ -12,7 +12,7 @@
 4. [Project Structure](#project-structure)
 5. [Quickstart & Installation](#quickstart--installation)
 6. [Demo Login Credentials](#demo-login-credentials)
-7. [Step-by-Step SIH 2026 Demonstration Script](#step-by-step-sih-2026-demonstration-script)
+7. [Step-by-Step Demonstration Script](#step-by-step-sih-2026-demonstration-script)
 8. [Where AI / ML is Used & Model Architecture](#where-ai--ml-is-used--model-architecture)
 9. [How Real Cisco / Fortinet / Palo Alto Hardware Integrations Are Added](#how-real-cisco--fortinet--palo-alto-hardware-integrations-are-added)
 10. [REST API Documentation](#rest-api-documentation)
