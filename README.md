@@ -1,6 +1,11 @@
 # AI-Driven Multi-Vendor Network Security Compliance Auditor
-**Smart India Hackathon 2026 Prototype**
-
+**MAKER NEEDS MORE_MORROW_Prototype**
+TEAM NAME - LUCKY BITS
+TEAM MEMBERS
+1) RENUKHA DEVI S
+2) REGAA G
+3) SUBHASREE G B
+4) SATHIYA JANANI S
 > Centralized multi-vendor network compliance auditing, configuration drift monitoring, CIS/NIST benchmark verification, deterministic AI/ML risk scoring, automated alert generation, and remediation guidance for Cisco, Fortinet, Palo Alto, and Juniper infrastructures.
 
 ---
