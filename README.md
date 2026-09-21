@@ -1,6 +1,6 @@
 # AI-Driven Multi-Vendor Network Security Compliance Auditor
 **MAKER NEEDS MORE_MORROW_Prototype**
-TEAM NAME - LUCKY BITS
+**TEAM NAME - LUCKY BITS**
 TEAM MEMBERS
 1) RENUKHA DEVI S
 2) REGAA G
